@@ -31,8 +31,6 @@
 
 # Android related
 **/android/**/gradle-wrapper.jar
-quizapp/android/app/google-services.json
-**/android/app/google-services.json
 **/android/.gradle
 **/android/captures/
 **/android/gradlew
